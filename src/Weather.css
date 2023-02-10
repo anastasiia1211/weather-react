@@ -1,9 +1,10 @@
 .Weather {
     font-family: arial, sans-serif;
-    border: 1px solid #dadde1;
+    border: 1px solid black;
     padding: 16px;
     border-radius: 4px;
     color: rgb(135, 135, 135);
+    background-color: #ecf2f9;
 }
 
 .Weather h1 {
@@ -11,6 +12,7 @@
     font-weight: 100;
     margin: 20px 0 0 0;
     line-height: 29px;
+    
 }
 
 .Weather ul {
