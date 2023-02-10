@@ -12,7 +12,7 @@ export default function App() {
           This project was coded by Anastasiia Filippenko
           and is{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://github.com/anastasiia1211/weather-react"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -20,7 +20,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://thunderous-dasik-786ef9.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
