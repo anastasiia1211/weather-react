@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 import WeatherIcon from "./WeatherIcon";
 
 export default function WeatherForecastDay(props) {
@@ -35,4 +35,4 @@ export default function WeatherForecastDay(props) {
       </div>
     </div>
   );
-}
+} */
